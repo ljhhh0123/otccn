@@ -20,3 +20,13 @@ tcc otccn_w
 example:
 otccn_w otccex.c 12
 
+
+# otccelfn
+otccelfn是作者原版elf后端版
+# otccpen
+otccpen是workbuddy修改后的exe后端版。
+# otccinit
+tccinit是Fabrice Bellad在开发完整C编译器的初版，也就是otcc的非混淆C代码的清晰版。适合研究学习。本版本用32位gcc直接编译即可运行，windows/linux都可运行。
+
+
+
